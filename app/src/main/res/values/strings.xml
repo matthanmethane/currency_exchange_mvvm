@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="app_title">Currency Exchange💱</string>
+    <string name="loading_default">=</string>
+    <string name="loading_progress">Calculating…</string>
+    <string name="parse_float">%.2f</string>
+</resources>
