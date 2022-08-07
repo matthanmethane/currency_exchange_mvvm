@@ -1,4 +1,4 @@
-# currency_exchange_mvvm
+# Currency Exchange MVVM
 Simple currency exchange MVVM
 ## Architecture Diagram
 ![mvvm_currency drawio](https://user-images.githubusercontent.com/10554125/183276094-b1110af0-90b8-436f-86ca-e160dda758c6.png)
