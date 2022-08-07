@@ -22,4 +22,11 @@ UI Layer is what is presented to the user and its only purpose it on presentatio
 
 ## Notable Use of Library
 1. Retrofit2: Network Events and REST API Call
-2. Dagger-Hilt: You would never want to have multiple instances of Retrofit calling the same API. Hence, Dagger-Hilt is used to keep Singleton of Retrofit and Main Repository. As the network calls are launched in Coroutines, DispatcherProvider is also kept as a Singleton. 
+2. Dagger-Hilt: You would never want to have multiple instances of Retrofit calling the same API. Hence, Dagger-Hilt is used to keep Singleton of Retrofit and Main Repository. As the network calls are launched in Coroutines, DispatcherProvider is also kept as a Singleton.
+
+## Video
+
+https://user-images.githubusercontent.com/10554125/183276776-87a9fadd-ca17-4b1a-abb0-336e2993d589.mov
+
+
+
