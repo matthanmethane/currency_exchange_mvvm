@@ -15,6 +15,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.create
 import javax.inject.Singleton
 
+// The API Key is exposed for reasons mentioned in README. In production system, it should be hidden and local.properties should be used instead.
 private const val BASE_URL = "https://v6.exchangerate-api.com/v6/83a7367fb1b7feb321837d7a/"
 
 @Module
